@@ -1,9 +1,9 @@
-### Basic Login page using tailwing css. 
+# Basic Login page using tailwing css. 
 
 ## Screenshots
 
-# Medium and large screen
+### Medium and large screen
 ![Full-Screen-Image](./assets/full.png)
 
-# Small screens
+### Small screens
 ![Small-Screen-Image](./assets/half.png)
