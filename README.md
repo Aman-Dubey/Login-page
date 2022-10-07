@@ -1,4 +1,4 @@
-##Basic Login page using tailwing css. 
+## Basic Login page using tailwing css. 
 
 ###Screenshots
 
